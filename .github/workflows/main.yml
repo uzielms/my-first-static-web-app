@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: "Minha primeira ação"
         run: echo "Hello World !!!"
-      - name: "Segunda Ação"
+      - name: "Minha Segunda Ação"
         run: |
           echo "Você criou o seu primeiro Workflow"
           echo "Parabéns !!!"
